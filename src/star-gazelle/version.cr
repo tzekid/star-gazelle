@@ -1,3 +1,3 @@
-module Star::Gazelle
+module StarGazelle
   VERSION = "0.1.0"
 end
