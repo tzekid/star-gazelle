@@ -4,11 +4,12 @@ Have the latest [himawari8](https://himawari8.nict.go.jp/) shots as your wallpap
 
 ## Installation
 
-You need to have [crystal](https://crystal-lang.org/docs/installation/), and ```feh``` installed:
+You need to have [crystal](https://crystal-lang.org/docs/installation/), and ```feh``` installed.
+
+
+You can either compile the project, or just run it with:  
 ```
-$ brew install feh # for osx
-# pacman -S feh # Arch Linux
-# apt-get install feh # Debian, Ubuntu &co.
+curl -fsSLo- https://raw.githubusercontent.com/tzekid/star-gazelle/master/src/star-gazelle.cr | crystal
 ```
 
 ## Usage
