@@ -1,0 +1,13 @@
+name: star-gazelle
+version: 0.1.0
+
+authors:
+  - Mircea Ilie Ploscaru <tzekid2010@gmail.com>
+
+targets:
+  star-gazelle:
+    main: src/star-gazelle.cr
+
+crystal: 0.23.0+12
+
+license: MIT
